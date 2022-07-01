@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05eef3af-5483-4159-8454-034827be50ff" name="Changes" comment="cats ArrayList example">
+    <list default="true" id="05eef3af-5483-4159-8454-034827be50ff" name="Changes" comment="ArrayList example with cats completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/sinergy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/sinergy/Main.java" afterDir="false" />
     </list>
@@ -86,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656679857264</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ArrayList example with cats completed">
+      <created>1656683014383</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656683014383</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +111,7 @@
     <MESSAGE value="init project" />
     <MESSAGE value="cats example" />
     <MESSAGE value="cats ArrayList example" />
-    <option name="LAST_COMMIT_MESSAGE" value="cats ArrayList example" />
+    <MESSAGE value="ArrayList example with cats completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayList example with cats completed" />
   </component>
 </project>
